@@ -30,6 +30,7 @@ int main(int argc, char* argv[]) {
 			break;
 		}
 	}
+	cout <<"ae";
 	system("pause");
 	return 0;
 }
